@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ClassLibrary1
 {
-	class MattSucks
+	class MattSucks123
 	{
 	}
 }
