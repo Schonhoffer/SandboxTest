@@ -4,6 +4,6 @@
 	<title>SandboxTest</title>
 </head>
 <body>
-	Hello, World
+Hello, World
 </body>
 </html>
